@@ -1,5 +1,5 @@
 {
-  "name": "zionframework/zion",
+  "name": "zion",
   "private": true,
   "release": {
     "branches": ["main"]
